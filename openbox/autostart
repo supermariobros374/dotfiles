@@ -1,0 +1,12 @@
+lxpolkit &
+xcompmgr &
+tint2 &
+clipit &
+nm-applet &
+fcitx &
+source ~/.fehbg &
+volctl &
+conky &
+aria2c --conf-path=/home/thomas/.aria2/config/aria2.conf -D &
+light-locker &
+tilda -h &
